@@ -20,3 +20,7 @@ O serviço iniciará na porta 8080
 # EndPoint do serviço
 
 localhost:8080/api-ldm-teste/api/estoque/MECA/5
+
+# Backup Do Banco de Dados (Mysql)
+
+o backup encontra-se em: ../APISpringJDBC/script-db/
